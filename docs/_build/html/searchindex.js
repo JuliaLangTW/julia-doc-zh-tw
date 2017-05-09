@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index"],envversion:51,filenames:["index.rst"],objects:{},objnames:{},objtypes:{},terms:{"\u641c\u5c0b\u9801\u9762":0,"\u6a21\u7d44\u7d22\u5f15":0,"\u7d22\u5f15":0},titles:["\u6b61\u8fce\u4f86\u5230Julia\u4e2d\u6587\u5b98\u65b9\u6587\u4ef6!"],titleterms:{"\u6b61\u8fce\u4f86\u5230julia\u4e2d\u6587\u5b98\u65b9\u6587\u4ef6":0,indic:0,tabl:0}})
